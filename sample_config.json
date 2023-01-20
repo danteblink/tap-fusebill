@@ -1,0 +1,6 @@
+{
+  "username": "my_username",
+  "password": "my_password",
+  "start_date": "2022-02-01T00:00:00Z",
+  "subscriptionSummary": "https://secure.fusebill.com/v1/subscriptionSummary?pageSize=10&pageNumber=0"
+}

@@ -1,0 +1,279 @@
+{
+  "streams": [
+    {
+      "tap_stream_id": "subscriptionSummary",
+      "replication_key": "createdTimestamp",
+      "key_properties": [
+        "id"
+      ],
+      "schema": {
+        "properties": {
+          "customerId": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "planId": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "planCode": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "name": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "description": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "reference": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "interval": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "numberOfInterval": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "subscriptionStatus": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "monthlyRecurringRevenue": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "netMonthlyRecurringRevenue": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "lastBillingDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "nextBillingDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "expiryDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "scheduledActivationTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "cancellationTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "suspendedTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "createdTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "modifiedTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "activatedTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "provisionedTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "nextPeriodStartDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "contractStartTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "contractEndTimestamp": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "remainingInterval": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "migrationDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "scheduledMigrationDate": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "canMigrate": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "customerFirstName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "customerLastName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "customerReference": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "companyName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "customerParentId": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "currency": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "invoiceOwner": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "invoiceOwnerId": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "geotabDevicePlanId": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "geotabDevicePlanName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "id": {
+            "type": [
+              "null",
+              "integer"
+            ]
+          },
+          "uri": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": "object",
+        "additionalProperties": false
+      },
+      "stream": "subscriptionSummary",
+      "metadata": [{
+        "metadata": {
+          "selected": true
+        },
+        "breadcrumb": []
+      }]
+    }
+  ]
+}

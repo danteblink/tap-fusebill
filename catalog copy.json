@@ -1,0 +1,50 @@
+{
+  "streams": [
+    {
+      "tap_stream_id": "subscriptions",
+      "key_properties": [
+        "id"
+      ],
+      "schema": {
+        "properties": {
+          "customerId": {
+            "type": [
+              "integer"
+            ]
+          },
+          "planName": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "id": {
+            "type": [
+              "integer"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": false
+      },
+      "stream": "subscriptions",
+      "metadata": [
+        {
+          "metadata": {
+            "selected": true
+          },
+          "breadcrumb": []
+        }
+      ]
+    }
+  ]
+}

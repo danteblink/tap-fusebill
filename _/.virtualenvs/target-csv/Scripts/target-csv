@@ -1,0 +1,1001 @@
+{"type": "SCHEMA", "stream": "subscriptions", "schema": {"properties": {"customerId": {"type": ["integer"]}, "planName": {"type": ["null", "string"]}, "status": {"type": ["null", "string"]}, "id": {"type": ["integer"]}}, "type": ["null", "object"], "additionalProperties": false}, "key_properties": ["id"]}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589557, "planName": "Gratuito", "status": "Active", "id": 3678847}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589558, "planName": "Gratuito", "status": "Active", "id": 3678848}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589522, "planName": "Gratuito", "status": "Active", "id": 3678852}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589559, "planName": "Gratuito", "status": "Active", "id": 3678849}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589560, "planName": "Gratuito", "status": "Active", "id": 3678850}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589561, "planName": "Gratuito", "status": "Active", "id": 3678851}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589523, "planName": "Gratuito", "status": "Active", "id": 3678853}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589524, "planName": "Gratuito", "status": "Active", "id": 3678854}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589525, "planName": "Gratuito", "status": "Active", "id": 3678855}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589526, "planName": "Gratuito", "status": "Active", "id": 3678856}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589527, "planName": "Gratuito", "status": "Active", "id": 3678857}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589528, "planName": "Gratuito", "status": "Active", "id": 3678858}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589529, "planName": "Gratuito", "status": "Active", "id": 3678859}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589530, "planName": "Esencial", "status": "Cancelled", "id": 3678860}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589531, "planName": "Gratuito", "status": "Active", "id": 3678861}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589540, "planName": "Gratuito", "status": "Active", "id": 3678862}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589541, "planName": "Gratuito", "status": "Active", "id": 3678863}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589544, "planName": "Gratuito", "status": "Active", "id": 3678876}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589572, "planName": "Gratuito", "status": "Active", "id": 3678867}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589573, "planName": "Gratuito", "status": "Active", "id": 3678868}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589574, "planName": "Gratuito", "status": "Active", "id": 3678869}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589575, "planName": "Gratuito", "status": "Active", "id": 3678870}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589576, "planName": "Gratuito", "status": "Active", "id": 3678871}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589577, "planName": "Gratuito", "status": "Active", "id": 3678872}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589578, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3678873}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589579, "planName": "Gratuito", "status": "Active", "id": 3678874}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589581, "planName": "Gratuito", "status": "Active", "id": 3678875}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589682, "planName": "Esencial", "status": "Active", "id": 3678864}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589683, "planName": "Gratuito", "status": "Active", "id": 3678865}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589684, "planName": "Gratuito", "status": "Cancelled", "id": 3678866}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589545, "planName": "Gratuito", "status": "Active", "id": 3678877}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589546, "planName": "Gratuito", "status": "Active", "id": 3678878}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589547, "planName": "Gratuito", "status": "Active", "id": 3678879}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589548, "planName": "Pro", "status": "Cancelled", "id": 3678880}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589550, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3678881}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589552, "planName": "Gratuito", "status": "Active", "id": 3678883}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589553, "planName": "Gratuito", "status": "Active", "id": 3678884}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589554, "planName": "Gratuito", "status": "Active", "id": 3678885}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589555, "planName": "Gratuito", "status": "Active", "id": 3678886}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589556, "planName": "Gratuito", "status": "Active", "id": 3678882}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589563, "planName": "Gratuito", "status": "Active", "id": 3678900}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589564, "planName": "Gratuito", "status": "Active", "id": 3678901}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589566, "planName": "Gratuito", "status": "Active", "id": 3678902}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589567, "planName": "Gratuito", "status": "Active", "id": 3678887}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589568, "planName": "Gratuito", "status": "Active", "id": 3678903}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589569, "planName": "Gratuito", "status": "Active", "id": 3678904}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589570, "planName": "Gratuito", "status": "Active", "id": 3678905}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589571, "planName": "Gratuito", "status": "Active", "id": 3678906}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589589, "planName": "Gratuito", "status": "Active", "id": 3678889}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589590, "planName": "Gratuito", "status": "Active", "id": 3678890}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589591, "planName": "Gratuito", "status": "Active", "id": 3678891}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589592, "planName": "Gratuito", "status": "Active", "id": 3678888}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589593, "planName": "Gratuito", "status": "Active", "id": 3678892}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589595, "planName": "Esencial", "status": "Cancelled", "id": 3678893}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589596, "planName": "Gratuito", "status": "Active", "id": 3678894}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589597, "planName": "Gratuito", "status": "Active", "id": 3678895}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589598, "planName": "Gratuito", "status": "Active", "id": 3678897}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589599, "planName": "Gratuito", "status": "Active", "id": 3678896}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589600, "planName": "Gratuito", "status": "Active", "id": 3678898}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589601, "planName": "Gratuito", "status": "Active", "id": 3678899}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589605, "planName": "Gratuito", "status": "Active", "id": 3678907}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589639, "planName": "Gratuito", "status": "Active", "id": 3678908}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589542, "planName": "Gratuito", "status": "Active", "id": 3678940}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589551, "planName": "Gratuito", "status": "Active", "id": 3678955}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589562, "planName": "Esencial", "status": "Cancelled", "id": 3678923}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589583, "planName": "Gratuito", "status": "Active", "id": 3678922}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589585, "planName": "Gratuito", "status": "Active", "id": 3678924}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589586, "planName": "Gratuito", "status": "Active", "id": 3678926}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589587, "planName": "Gratuito", "status": "Active", "id": 3678925}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589594, "planName": "Esencial", "status": "Active", "id": 3678930}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589602, "planName": "Gratuito", "status": "Active", "id": 3678910}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589603, "planName": "Gratuito", "status": "Active", "id": 3678911}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589604, "planName": "Gratuito", "status": "Active", "id": 3678912}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589608, "planName": "Gratuito", "status": "Active", "id": 3678913}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589609, "planName": "Gratuito", "status": "Active", "id": 3678916}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589610, "planName": "Gratuito", "status": "Active", "id": 3678914}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589611, "planName": "Gratuito", "status": "Active", "id": 3678915}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589612, "planName": "Gratuito", "status": "Active", "id": 3678917}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589615, "planName": "Gratuito", "status": "Active", "id": 3678918}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589618, "planName": "Gratuito", "status": "Active", "id": 3678919}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589620, "planName": "Gratuito", "status": "Active", "id": 3678920}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589621, "planName": "Gratuito", "status": "Active", "id": 3678921}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589622, "planName": "Gratuito", "status": "Active", "id": 3678937}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589623, "planName": "Gratuito", "status": "Active", "id": 3678936}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589624, "planName": "Gratuito", "status": "Active", "id": 3678938}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589625, "planName": "Gratuito", "status": "Active", "id": 3678939}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589626, "planName": "Gratuito", "status": "Active", "id": 3678941}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589627, "planName": "Gratuito", "status": "Active", "id": 3678942}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589628, "planName": "Gratuito", "status": "Active", "id": 3678943}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589634, "planName": "Gratuito", "status": "Active", "id": 3678944}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589638, "planName": "Gratuito", "status": "Active", "id": 3678946}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589640, "planName": "Gratuito", "status": "Active", "id": 3678945}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589641, "planName": "Gratuito", "status": "Active", "id": 3678909}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589642, "planName": "Gratuito", "status": "Active", "id": 3678956}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589643, "planName": "Gratuito", "status": "Active", "id": 3678957}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589644, "planName": "Gratuito", "status": "Active", "id": 3678958}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589645, "planName": "Gratuito", "status": "Active", "id": 3678959}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589646, "planName": "Gratuito", "status": "Active", "id": 3678960}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589647, "planName": "Gratuito", "status": "Active", "id": 3678961}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589648, "planName": "Gratuito", "status": "Active", "id": 3678962}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589649, "planName": "Gratuito", "status": "Active", "id": 3678963}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589650, "planName": "Gratuito", "status": "Active", "id": 3678964}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589651, "planName": "Gratuito", "status": "Active", "id": 3678951}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589652, "planName": "Esencial", "status": "Active", "id": 3678965}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589653, "planName": "Gratuito", "status": "Active", "id": 3678966}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589654, "planName": "Gratuito", "status": "Active", "id": 3678927}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589655, "planName": "Esencial", "status": "Active", "id": 3678928}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589656, "planName": "Gratuito", "status": "Active", "id": 3678929}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589657, "planName": "Gratuito", "status": "Active", "id": 3678931}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589658, "planName": "Gratuito", "status": "Active", "id": 3678932}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589659, "planName": "Gratuito", "status": "Active", "id": 3678933}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589660, "planName": "Gratuito", "status": "Active", "id": 3678934}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589661, "planName": "Gratuito", "status": "Active", "id": 3678935}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589670, "planName": "Gratuito", "status": "Active", "id": 3678969}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589671, "planName": "Gratuito", "status": "Active", "id": 3678947}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589673, "planName": "Gratuito", "status": "Active", "id": 3678948}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589677, "planName": "Gratuito", "status": "Active", "id": 3678949}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589678, "planName": "Esencial", "status": "Active", "id": 3678950}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589679, "planName": "Gratuito", "status": "Active", "id": 3678952}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589680, "planName": "Esencial", "status": "Active", "id": 3678953}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589681, "planName": "Gratuito", "status": "Active", "id": 3678954}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589690, "planName": "Pro", "status": "Cancelled", "id": 3678968}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589692, "planName": "Gratuito", "status": "Active", "id": 3678970}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589693, "planName": "Gratuito", "status": "Active", "id": 3678971}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589694, "planName": "Gratuito", "status": "Active", "id": 3678972}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589695, "planName": "Gratuito", "status": "Active", "id": 3678973}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589532, "planName": "Pro", "status": "Cancelled", "id": 3678995}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589533, "planName": "Gratuito", "status": "Active", "id": 3678997}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589534, "planName": "Gratuito", "status": "Active", "id": 3678998}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589535, "planName": "Gratuito", "status": "Active", "id": 3678994}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589536, "planName": "Gratuito", "status": "Active", "id": 3678999}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589537, "planName": "Gratuito", "status": "Active", "id": 3679000}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589538, "planName": "Gratuito", "status": "Active", "id": 3679001}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589539, "planName": "Gratuito", "status": "Active", "id": 3678993}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589543, "planName": "Pro", "status": "Cancelled", "id": 3679018}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589549, "planName": "Gratuito", "status": "Active", "id": 3679027}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589565, "planName": "Gratuito", "status": "Active", "id": 3678996}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589580, "planName": "Pro", "status": "Cancelled", "id": 3679017}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589582, "planName": "Gratuito", "status": "Active", "id": 3679010}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589584, "planName": "Gratuito", "status": "Active", "id": 3679012}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589588, "planName": "Gratuito", "status": "Active", "id": 3678988}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589606, "planName": "Gratuito", "status": "Active", "id": 3678989}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589607, "planName": "Gratuito", "status": "Active", "id": 3679020}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589613, "planName": "Gratuito", "status": "Active", "id": 3679019}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589614, "planName": "Gratuito", "status": "Active", "id": 3679023}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589616, "planName": "Gratuito", "status": "Active", "id": 3678992}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589617, "planName": "Gratuito", "status": "Active", "id": 3679008}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589619, "planName": "Gratuito", "status": "Active", "id": 3679009}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589629, "planName": "Gratuito", "status": "Active", "id": 3679013}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589630, "planName": "Gratuito", "status": "Active", "id": 3679022}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589631, "planName": "Gratuito", "status": "Active", "id": 3678991}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589632, "planName": "Gratuito", "status": "Active", "id": 3679025}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589633, "planName": "Gratuito", "status": "Active", "id": 3678990}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589635, "planName": "Gratuito", "status": "Active", "id": 3679014}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589636, "planName": "Gratuito", "status": "Active", "id": 3679016}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589637, "planName": "Gratuito", "status": "Active", "id": 3679024}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589662, "planName": "Gratuito", "status": "Active", "id": 3679003}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589663, "planName": "Gratuito", "status": "Active", "id": 3678979}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589664, "planName": "Gratuito", "status": "Active", "id": 3678981}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589665, "planName": "Gratuito", "status": "Active", "id": 3678982}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589666, "planName": "Gratuito", "status": "Active", "id": 3678983}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589667, "planName": "Gratuito", "status": "Active", "id": 3678984}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589668, "planName": "Gratuito", "status": "Active", "id": 3678985}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589669, "planName": "Gratuito", "status": "Active", "id": 3678986}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589672, "planName": "Gratuito", "status": "Active", "id": 3678980}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589674, "planName": "Gratuito", "status": "Active", "id": 3678987}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589675, "planName": "Gratuito", "status": "Active", "id": 3679011}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589676, "planName": "Pro", "status": "Cancelled", "id": 3679026}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589685, "planName": "Gratuito", "status": "Active", "id": 3679015}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589686, "planName": "Esencial", "status": "Active", "id": 3679004}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589687, "planName": "Gratuito", "status": "Active", "id": 3679002}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589688, "planName": "Gratuito", "status": "Active", "id": 3679005}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589689, "planName": "Gratuito", "status": "Active", "id": 3679006}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589691, "planName": "Gratuito", "status": "Active", "id": 3679007}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589696, "planName": "Gratuito", "status": "Active", "id": 3679021}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589697, "planName": "Gratuito", "status": "Active", "id": 3678974}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589698, "planName": "Gratuito", "status": "Active", "id": 3678976}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589699, "planName": "Gratuito", "status": "Active", "id": 3678975}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589700, "planName": "Gratuito", "status": "Active", "id": 3678977}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8589701, "planName": "Gratuito", "status": "Active", "id": 3678978}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8640515, "planName": "Pro", "status": "Cancelled", "id": 3696193}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8667380, "planName": "Esencial", "status": "Cancelled", "id": 3702474}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8733230, "planName": "Gratuito Preferencial", "status": "Active", "id": 3720847}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8734343, "planName": "Gratuito Preferencial", "status": "Active", "id": 3721050}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8735487, "planName": "Gratuito Preferencial", "status": "Active", "id": 3721316}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8736328, "planName": "Gratuito Preferencial", "status": "Active", "id": 3721676}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8737613, "planName": "Gratuito", "status": "Active", "id": 3722215}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8737785, "planName": "Gratuito Preferencial", "status": "Active", "id": 3747842}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8740812, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749552}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741164, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749607}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741184, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749608}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741188, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749610}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741246, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749618}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741246, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749623}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741397, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749641}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741664, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749700}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741664, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749703}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741664, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749762}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741669, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3782965}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741669, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749689}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741709, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749732}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741709, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749735}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741719, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3750234}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741719, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3783714}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741719, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3783716}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741719, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749706}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741719, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749708}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741944, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3750313}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741944, "planName": "Gratuito Preferencial", "status": "Active", "id": 3749765}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741944, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3749775}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741944, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3778820}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8742957, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783585}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8744264, "planName": "Gratuito Preferencial", "status": "Active", "id": 3750204}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8744391, "planName": "Gratuito Preferencial", "status": "Active", "id": 3750224}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8745871, "planName": "Gratuito Preferencial", "status": "Active", "id": 3750441}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8745941, "planName": "Gratuito Preferencial", "status": "Active", "id": 3750467}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8749207, "planName": "Gratuito Preferencial", "status": "Active", "id": 3751172}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8750766, "planName": "Gratuito Preferencial", "status": "Active", "id": 3781005}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751026, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752156}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751513, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752348}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751516, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752349}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751580, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752373}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751772, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752438}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751781, "planName": "Gratuito", "status": "Active", "id": 3752450}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751813, "planName": "B\u00e1sico", "status": "Active", "id": 3752465}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751937, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752506}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8751943, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752495}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752040, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3752566}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752046, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752565}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752182, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752602}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752297, "planName": "Gratuito", "status": "Active", "id": 3752624}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752470, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752654}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8752471, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752646}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8753014, "planName": "Gratuito Preferencial", "status": "Active", "id": 3752806}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8754411, "planName": "Gratuito Preferencial", "status": "Active", "id": 3753274}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8756854, "planName": "Gratuito Preferencial", "status": "Active", "id": 3754370}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8757247, "planName": "Gratuito Preferencial", "status": "Active", "id": 3754459}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8757745, "planName": "Gratuito", "status": "Active", "id": 3754543}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "Gratuito Preferencial", "status": "Active", "id": 3754914}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8760151, "planName": "Gratuito Preferencial", "status": "Active", "id": 3755655}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8762637, "planName": "Gratuito Preferencial", "status": "Active", "id": 3761528}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8764031, "planName": "Gratuito Preferencial", "status": "Active", "id": 3763897}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8766746, "planName": "Gratuito Preferencial", "status": "Active", "id": 3779563}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8767617, "planName": "Gratuito", "status": "Active", "id": 3780012}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8768294, "planName": "Gratuito Preferencial", "status": "Active", "id": 3780648}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8768994, "planName": "Gratuito Preferencial", "status": "Active", "id": 3780913}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8770033, "planName": "Gratuito Preferencial", "status": "Active", "id": 3781263}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8772730, "planName": "Gratuito Preferencial", "status": "Active", "id": 3782494}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8772964, "planName": "Gratuito Preferencial", "status": "Active", "id": 3782706}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8773292, "planName": "Gratuito Preferencial", "status": "Active", "id": 3782884}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8773616, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783071}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8774697, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783288}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8775168, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783342}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8776770, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783615}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8741397, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3801498}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8743453, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801967}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8743453, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3801968}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8757475, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3788563}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3788402}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3788470}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3798744}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "B\u00e1sico", "status": "Draft", "id": 3798746}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "B\u00e1sico", "status": "Draft", "id": 3798747}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8759225, "planName": "B\u00e1sico", "status": "Draft", "id": 3798748}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8777585, "planName": "Gratuito Preferencial", "status": "Active", "id": 3783775}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8778717, "planName": "Gratuito Preferencial", "status": "Active", "id": 3784010}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8778727, "planName": "Gratuito Preferencial", "status": "Active", "id": 3784012}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8779135, "planName": "Gratuito", "status": "Active", "id": 3784108}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8780779, "planName": "Gratuito Preferencial", "status": "Active", "id": 3784454}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8781590, "planName": "Gratuito", "status": "Active", "id": 3784737}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8782375, "planName": "Gratuito", "status": "Active", "id": 3784944}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8783004, "planName": "Gratuito Preferencial", "status": "Active", "id": 3785088}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8786321, "planName": "Gratuito Preferencial", "status": "Active", "id": 3786357}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8787519, "planName": "Gratuito Preferencial", "status": "Active", "id": 3786819}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8790081, "planName": "Gratuito Preferencial", "status": "Active", "id": 3787534}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8790515, "planName": "Gratuito Preferencial", "status": "Active", "id": 3787686}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8790736, "planName": "Gratuito Preferencial", "status": "Active", "id": 3787771}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8795041, "planName": "Gratuito Preferencial", "status": "Active", "id": 3789329}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8795302, "planName": "Gratuito Preferencial", "status": "Active", "id": 3789469}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8795821, "planName": "Gratuito", "status": "Active", "id": 3789803}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8796283, "planName": "Gratuito Preferencial", "status": "Active", "id": 3790278}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8796647, "planName": "Gratuito Preferencial", "status": "Active", "id": 3790947}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8797192, "planName": "Gratuito", "status": "Active", "id": 3802753}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8797374, "planName": "Gratuito", "status": "Active", "id": 3791476}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8797407, "planName": "Gratuito Preferencial", "status": "Active", "id": 3791496}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8797651, "planName": "Gratuito Preferencial", "status": "Active", "id": 3791568}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8798655, "planName": "Gratuito Preferencial", "status": "Active", "id": 3791808}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8800498, "planName": "B\u00e1sico", "status": "Active", "id": 3798079}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8802436, "planName": "Gratuito Preferencial", "status": "Active", "id": 3798885}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8803712, "planName": "Gratuito Preferencial", "status": "Active", "id": 3799328}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8804037, "planName": "Gratuito", "status": "Active", "id": 3799663}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8806241, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801373}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8806423, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801400}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8806788, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801471}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8807207, "planName": "Gratuito", "status": "Active", "id": 3801523}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8807383, "planName": "Gratuito Preferencial", "status": "Active", "id": 3802530}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8807764, "planName": "Gratuito Preferencial", "status": "Active", "id": 3830940}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8808703, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801690}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8809064, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801730}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8810111, "planName": "Gratuito Preferencial", "status": "Active", "id": 3801840}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8814617, "planName": "Gratuito", "status": "Active", "id": 3803424}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8814815, "planName": "Gratuito", "status": "Active", "id": 3803451}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8814843, "planName": "Gratuito", "status": "Active", "id": 3803454}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8815133, "planName": "Gratuito Preferencial", "status": "Active", "id": 3803506}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8818209, "planName": "Gratuito", "status": "Active", "id": 3804441}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8818930, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3804853}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8820407, "planName": "Gratuito", "status": "Active", "id": 3805363}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8820534, "planName": "Gratuito", "status": "Active", "id": 3806684}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8820600, "planName": "Gratuito", "status": "Active", "id": 3805458}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8822497, "planName": "Gratuito", "status": "Active", "id": 3806068}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8822615, "planName": "Gratuito", "status": "Active", "id": 3806111}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8822653, "planName": "Gratuito", "status": "Active", "id": 3806133}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8822865, "planName": "Gratuito Preferencial", "status": "Active", "id": 3806208}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8823236, "planName": "Gratuito Preferencial", "status": "Active", "id": 3806477}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8823590, "planName": "Gratuito", "status": "Active", "id": 3806621}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8823694, "planName": "Gratuito", "status": "Active", "id": 3806671}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8824256, "planName": "Gratuito", "status": "Active", "id": 3806829}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8832542, "planName": "Gratuito", "status": "Active", "id": 3826395}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "Gratuito Preferencial", "status": "Active", "id": 3829367}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3829369}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "B\u00e1sico", "status": "Draft", "id": 3829441}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3829452}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3829553}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8838888, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3832097}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8840360, "planName": "Gratuito Preferencial", "status": "Active", "id": 3829239}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8840382, "planName": "Gratuito Preferencial", "status": "Active", "id": 3829242}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8840641, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3829298}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8841005, "planName": "Gratuito Preferencial", "status": "Active", "id": 3829397}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8841330, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3829455}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8842561, "planName": "Gratuito Preferencial", "status": "Active", "id": 3829598}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8843237, "planName": "Gratuito", "status": "Active", "id": 3829720}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8845068, "planName": "Gratuito Preferencial", "status": "Active", "id": 3830038}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8846408, "planName": "Gratuito Preferencial", "status": "Active", "id": 3830245}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8851016, "planName": "Gratuito", "status": "Active", "id": 3831262}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8851242, "planName": "Gratuito", "status": "Active", "id": 3831404}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8851285, "planName": "Gratuito", "status": "Active", "id": 3831427}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8853472, "planName": "Gratuito Preferencial", "status": "Active", "id": 3832291}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8853877, "planName": "Gratuito", "status": "Active", "id": 3832654}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8855157, "planName": "Gratuito Preferencial", "status": "Active", "id": 3834213}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8862052, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836409}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863448, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836732}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863479, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836740}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863480, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836745}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863517, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836756}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863524, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836764}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863540, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836997}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863545, "planName": "Gratuito", "status": "Active", "id": 3836767}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863551, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836781}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863562, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836798}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863940, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836937}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863976, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836958}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863977, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836953}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8863992, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836957}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864033, "planName": "Gratuito Preferencial", "status": "Active", "id": 3836977}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864094, "planName": "Gratuito", "status": "Active", "id": 3837007}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864183, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837036}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864219, "planName": "Gratuito", "status": "Active", "id": 3837047}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864244, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837062}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864251, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837061}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864277, "planName": "Gratuito", "status": "Active", "id": 3837072}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864317, "planName": "Gratuito", "status": "Active", "id": 3837112}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864317, "planName": "Gratuito", "status": "Draft", "id": 3837246}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864317, "planName": "Gratuito", "status": "Draft", "id": 3837258}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864359, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837131}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864416, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837132}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864431, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837124}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864474, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837138}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864510, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837213}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864527, "planName": "Gratuito", "status": "Active", "id": 3837206}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864550, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837231}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864569, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837242}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864582, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837174}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864588, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837165}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864623, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837180}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864747, "planName": "Gratuito", "status": "Active", "id": 3837243}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864761, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837249}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864763, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837304}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864810, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837438}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864812, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837271}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864959, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837313}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865028, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838824}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865030, "planName": "Gratuito", "status": "Active", "id": 3837349}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865135, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837413}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865263, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837469}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865279, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837493}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865413, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837604}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865550, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837669}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865556, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837681}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865615, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837737}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865632, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837780}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865684, "planName": "Gratuito", "status": "Active", "id": 3837805}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865717, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837794}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865749, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837785}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865753, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837786}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865817, "planName": "Gratuito", "status": "Active", "id": 3837803}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865821, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837804}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865845, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837815}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865871, "planName": "Gratuito", "status": "Active", "id": 3837816}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865916, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837853}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865923, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837836}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865944, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837834}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865963, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837845}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866009, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837919}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866016, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837857}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866024, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837864}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866061, "planName": "Gratuito", "status": "Active", "id": 3837879}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866096, "planName": "Gratuito", "status": "Active", "id": 3837876}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866137, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837893}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866302, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837945}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866311, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837941}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866357, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837961}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866399, "planName": "Gratuito", "status": "Active", "id": 3837966}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866432, "planName": "Gratuito Preferencial", "status": "Active", "id": 3837969}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866495, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838000}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866923, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838041}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866943, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838047}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8867054, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838055}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8867074, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838057}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8867144, "planName": "Gratuito", "status": "Active", "id": 3838066}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868603, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838459}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868650, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838919}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868659, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838481}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868682, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838464}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868717, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838587}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868727, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838489}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868740, "planName": "Gratuito", "status": "Active", "id": 3838487}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868755, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838598}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868763, "planName": "Gratuito", "status": "Active", "id": 3838500}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868768, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838506}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868801, "planName": "Gratuito", "status": "Active", "id": 3838523}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868815, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838531}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868820, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838536}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868885, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838596}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868936, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838605}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868953, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838613}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868959, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839059}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868973, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838620}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869004, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838626}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869010, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838713}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869100, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838714}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869113, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838660}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869131, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838673}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869145, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838677}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869149, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838670}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869174, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838679}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869202, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838688}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869222, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838699}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869261, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838700}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869267, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838821}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869313, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838815}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869361, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838785}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869368, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838782}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869383, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838814}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869424, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838844}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869432, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838858}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869444, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839030}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869473, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838840}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869485, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838863}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869537, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838882}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869560, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838891}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869610, "planName": "Gratuito", "status": "Active", "id": 3838983}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869662, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838904}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869671, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839503}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869715, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838930}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869716, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838924}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869746, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838942}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869769, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838954}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869832, "planName": "Gratuito Preferencial", "status": "Active", "id": 3838990}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869843, "planName": "Gratuito", "status": "Active", "id": 3838987}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870041, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839092}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870089, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839124}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870133, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839127}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870176, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839128}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870241, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839166}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870379, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839243}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870399, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839250}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870454, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839287}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870526, "planName": "Gratuito", "status": "Active", "id": 3839330}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870560, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839394}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870574, "planName": "Gratuito", "status": "Active", "id": 3839369}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870590, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839349}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870608, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839371}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870651, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839407}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870683, "planName": "Gratuito", "status": "Active", "id": 3839493}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870701, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839432}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870741, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839512}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870774, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839451}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870777, "planName": "Gratuito", "status": "Active", "id": 3839472}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870832, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839490}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870891, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839494}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870926, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839499}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871012, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839571}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871015, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839530}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871041, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839554}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871069, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839551}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871072, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839556}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871077, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839552}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871093, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839559}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871096, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839579}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871145, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839578}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871162, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839599}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871171, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839581}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871188, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839592}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871216, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839602}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871245, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839609}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871252, "planName": "Gratuito", "status": "Active", "id": 3839608}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871280, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839616}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871305, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839620}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871351, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839634}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871359, "planName": "Gratuito", "status": "Active", "id": 3839678}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8734030, "planName": "B\u00e1sico", "status": "Migrated", "id": 3840993}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8764135, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3840220}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864286, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841736}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8864325, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847746}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8865084, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840987}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866145, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848331}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8866773, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847439}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8868970, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841226}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869159, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840728}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869634, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849786}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8869749, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847812}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8870129, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847923}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871870, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839691}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8871877, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839690}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872008, "planName": "Gratuito Preferencial", "status": "Active", "id": 3839714}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872253, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840027}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872340, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840049}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872486, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840073}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872555, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844337}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8872745, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840163}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8873038, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840208}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8873873, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840453}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8873873, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3840454}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8873908, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840451}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874000, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840477}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874013, "planName": "Gratuito", "status": "Active", "id": 3840475}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874072, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840490}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874091, "planName": "Gratuito", "status": "Active", "id": 3840485}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874130, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840513}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874771, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840529}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8874782, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840525}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8875171, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840537}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8875727, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840542}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8875802, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840684}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8876269, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845173}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8876710, "planName": "Gratuito", "status": "Active", "id": 3840775}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877275, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840571}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877275, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843775}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877275, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843776}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877275, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843777}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877275, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843773}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877297, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840576}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877330, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840875}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877353, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840595}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877358, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840647}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877360, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841290}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877386, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842355}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877386, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842364}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877501, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840644}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877537, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840675}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877548, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840687}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877556, "planName": "Gratuito", "status": "Active", "id": 3840666}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877585, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840685}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877601, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840883}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877619, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840713}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877637, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840695}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877650, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840711}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877660, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841762}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877661, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842318}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877661, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842283}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877661, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3845076}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877703, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840723}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877716, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840729}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877766, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841225}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877780, "planName": "Gratuito", "status": "Active", "id": 3840771}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877781, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842679}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877793, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841823}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877800, "planName": "Gratuito", "status": "Active", "id": 3840946}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877809, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840777}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877825, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840801}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877861, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840791}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877865, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840794}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877882, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840845}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877887, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840800}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877906, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840814}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877906, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3840815}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877914, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840823}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877921, "planName": "Gratuito", "status": "Active", "id": 3840812}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877934, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840960}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877941, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842509}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877954, "planName": "Gratuito", "status": "Active", "id": 3840829}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877963, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840839}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877974, "planName": "Gratuito", "status": "Active", "id": 3840846}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877985, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840851}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8877994, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840852}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878006, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841264}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878056, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840884}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878074, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840905}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878075, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840915}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878076, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840918}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878087, "planName": "Gratuito", "status": "Active", "id": 3840898}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878087, "planName": "Gratuito", "status": "Active", "id": 3840899}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878099, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840906}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878107, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840907}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878109, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840897}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878121, "planName": "Gratuito", "status": "Active", "id": 3842398}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878122, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840908}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878136, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840909}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878152, "planName": "Gratuito", "status": "Active", "id": 3840945}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878153, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840921}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878154, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840977}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878164, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840943}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878165, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840927}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878166, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840958}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878171, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840931}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878191, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840942}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878202, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840971}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878203, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840944}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878209, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840948}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878227, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842319}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878230, "planName": "Gratuito", "status": "Active", "id": 3840970}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878235, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840999}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878247, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841002}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878255, "planName": "Gratuito", "status": "Active", "id": 3840979}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878271, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840980}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878278, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840998}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878282, "planName": "Gratuito Preferencial", "status": "Active", "id": 3840995}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878292, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841014}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878325, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841015}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878350, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841034}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878352, "planName": "Gratuito", "status": "Active", "id": 3841021}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878354, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847772}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878356, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841026}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878357, "planName": "Gratuito", "status": "Active", "id": 3841027}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878370, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841044}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878411, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841212}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878442, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841154}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878445, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841211}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878456, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841338}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878463, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841223}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878464, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841215}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878486, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841252}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878512, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841278}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878542, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841324}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878549, "planName": "Gratuito", "status": "Active", "id": 3841288}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878570, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841328}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878741, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841445}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878761, "planName": "Gratuito", "status": "Active", "id": 3841482}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878808, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841669}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878863, "planName": "Gratuito", "status": "Active", "id": 3841481}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843721}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843724}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843774}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843843}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843769}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843770}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843771}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3844220}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3844268}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3847320}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3845625}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3845633}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878929, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848772}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878956, "planName": "Gratuito", "status": "Active", "id": 3841641}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878970, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841583}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8878989, "planName": "Gratuito", "status": "Active", "id": 3841575}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879002, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841745}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879113, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841640}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879119, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841631}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879129, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841662}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879143, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841660}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879163, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841671}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879175, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841675}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879181, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841702}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879186, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841673}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879202, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841678}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879250, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841689}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879253, "planName": "Gratuito", "status": "Active", "id": 3841693}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879260, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841717}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879278, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841707}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879304, "planName": "Gratuito", "status": "Active", "id": 3841769}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879321, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841715}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879345, "planName": "Gratuito", "status": "Active", "id": 3841718}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879348, "planName": "Gratuito", "status": "Active", "id": 3841722}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879349, "planName": "Gratuito", "status": "Active", "id": 3841720}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879366, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841723}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879415, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841746}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879436, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841737}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879451, "planName": "Gratuito", "status": "Active", "id": 3841741}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879495, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841779}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879510, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841753}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879533, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841768}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879534, "planName": "Gratuito", "status": "Active", "id": 3841765}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879543, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841782}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879588, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841781}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito", "status": "Active", "id": 3847679}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3847738}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3847740}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3847742}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848518}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848520}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848535}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848541}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879593, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848543}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879627, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841788}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879650, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841794}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879656, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841792}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879663, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841800}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879665, "planName": "Gratuito", "status": "Active", "id": 3841802}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879678, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841798}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879682, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841801}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879700, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841806}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879705, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841803}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879711, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841810}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879725, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841814}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879732, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841819}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879740, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841824}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879772, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841836}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879775, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841844}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879783, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841834}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879882, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841871}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879937, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3841872}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879937, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841870}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879956, "planName": "Gratuito", "status": "Active", "id": 3841873}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8879966, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841889}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880072, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841892}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880095, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844332}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880117, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841911}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880136, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841904}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880171, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841915}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880314, "planName": "Gratuito", "status": "Active", "id": 3841924}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880341, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841926}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880352, "planName": "Gratuito Preferencial", "status": "Active", "id": 3841923}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880394, "planName": "Gratuito", "status": "Active", "id": 3842291}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880608, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842040}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880655, "planName": "Gratuito", "status": "Active", "id": 3842110}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8880712, "planName": "Gratuito", "status": "Active", "id": 3842126}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8881052, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842169}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8881638, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842239}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8881872, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842305}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8881970, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842316}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8881996, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842268}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882000, "planName": "Gratuito Preferencial", "status": "Cancelled", "id": 3842271}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882015, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842272}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842307}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842383}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842388}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842335}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843880}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843882}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882024, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848704}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882044, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842284}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882071, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842292}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882077, "planName": "Gratuito", "status": "Active", "id": 3842285}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882078, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842288}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882078, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842362}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882078, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3842438}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882080, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842286}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882094, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842295}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882100, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842296}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882150, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842304}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882153, "planName": "Gratuito", "status": "Active", "id": 3842314}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882214, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842311}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882252, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842326}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882263, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842322}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882280, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842345}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882290, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842337}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Active", "id": 3842334}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849787}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849789}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849796}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849798}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849800}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882310, "planName": "Gratuito", "status": "Draft", "id": 3849794}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882314, "planName": "Gratuito", "status": "Active", "id": 3842336}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882322, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842342}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882330, "planName": "Gratuito", "status": "Active", "id": 3842346}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882343, "planName": "Gratuito", "status": "Active", "id": 3842349}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882344, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842344}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882353, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842339}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882382, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842347}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882389, "planName": "Gratuito", "status": "Active", "id": 3842348}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882414, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842361}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882428, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842375}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882503, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842370}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882535, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842382}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882566, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842380}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882772, "planName": "Gratuito", "status": "Active", "id": 3842421}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882785, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842410}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882874, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842423}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882906, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842427}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882931, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842457}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882975, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842441}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882984, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842446}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8882992, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842453}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883002, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842447}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883031, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842466}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883050, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842460}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883051, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842459}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883111, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842465}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883125, "planName": "Gratuito", "status": "Active", "id": 3842474}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883164, "planName": "Gratuito", "status": "Active", "id": 3842477}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883225, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842486}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883246, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842488}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883254, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842500}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883263, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842490}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883265, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842491}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883280, "planName": "Gratuito", "status": "Active", "id": 3842489}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883361, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842502}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883389, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842505}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883411, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842508}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883439, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842511}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883524, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842526}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883607, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844295}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883660, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842572}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8883714, "planName": "Gratuito", "status": "Active", "id": 3842573}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8884446, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842662}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8884524, "planName": "Gratuito Preferencial", "status": "Active", "id": 3842675}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8884536, "planName": "Gratuito", "status": "Active", "id": 3842680}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8886363, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843330}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8886626, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843362}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8886941, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843431}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8887332, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843468}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8887439, "planName": "Gratuito", "status": "Active", "id": 3843477}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8887722, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843515}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8887751, "planName": "Gratuito", "status": "Active", "id": 3843518}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888144, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843579}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843641}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843643}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843644}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843646}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843648}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888539, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843649}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888911, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843689}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888911, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843691}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888911, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843695}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8888957, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843696}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843765}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843768}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843781}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843783}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843785}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843787}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3843788}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3849063}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848307}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889373, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3848308}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889647, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843879}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8889935, "planName": "Gratuito Preferencial", "status": "Active", "id": 3843992}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8890583, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844096}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8890997, "planName": "Gratuito", "status": "Active", "id": 3844311}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891000, "planName": "Gratuito", "status": "Active", "id": 3844300}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891032, "planName": "Gratuito", "status": "Active", "id": 3844318}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891060, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844348}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891061, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844324}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891073, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844377}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891081, "planName": "Gratuito", "status": "Active", "id": 3844363}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891081, "planName": "Gratuito", "status": "Active", "id": 3844364}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891093, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844351}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891124, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844374}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891158, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844417}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891201, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844421}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891206, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844424}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891218, "planName": "Gratuito", "status": "Active", "id": 3844427}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891220, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844428}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891232, "planName": "Gratuito", "status": "Active", "id": 3844443}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891240, "planName": "Gratuito", "status": "Active", "id": 3844450}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891240, "planName": "Gratuito", "status": "Draft", "id": 3844451}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891241, "planName": "Gratuito", "status": "Active", "id": 3844483}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891248, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844751}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891266, "planName": "Gratuito", "status": "Active", "id": 3844655}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891267, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844653}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891275, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844666}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891290, "planName": "Gratuito Preferencial", "status": "Active", "id": 3844741}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891321, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846014}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891333, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845057}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891334, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845049}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891347, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845045}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891395, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845063}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891428, "planName": "Gratuito", "status": "Active", "id": 3845090}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891442, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845094}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891443, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845086}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891454, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845091}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891459, "planName": "Gratuito", "status": "Active", "id": 3845113}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891489, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845115}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891492, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845108}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891525, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845137}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891527, "planName": "Gratuito", "status": "Active", "id": 3845134}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891541, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845199}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891543, "planName": "Gratuito", "status": "Active", "id": 3845138}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891585, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845177}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891694, "planName": "Gratuito", "status": "Active", "id": 3845230}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891805, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845289}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891827, "planName": "Gratuito", "status": "Active", "id": 3845241}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891849, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845243}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891862, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845295}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891871, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845260}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891920, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845282}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891956, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845279}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8891973, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845318}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892162, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845387}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892218, "planName": "Gratuito", "status": "Active", "id": 3845404}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892222, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845415}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892297, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845499}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892322, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845480}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892425, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845552}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892444, "planName": "Gratuito", "status": "Active", "id": 3845550}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892457, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848102}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892504, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845756}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892524, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845658}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892528, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845579}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892666, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845680}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892905, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845961}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8892908, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845885}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893025, "planName": "Gratuito Preferencial", "status": "Active", "id": 3845974}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893035, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846046}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893318, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846880}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893345, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846871}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893371, "planName": "Gratuito", "status": "Active", "id": 3846273}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893455, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846395}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893512, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846452}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893533, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846491}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893568, "planName": "Gratuito", "status": "Active", "id": 3846822}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893575, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846560}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893594, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846536}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8893890, "planName": "Gratuito Preferencial", "status": "Active", "id": 3846799}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8894945, "planName": "Gratuito", "status": "Active", "id": 3847013}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8894989, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847035}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896431, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847352}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896491, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847343}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896654, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847468}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896708, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847428}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896718, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847440}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896731, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847449}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8896753, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847441}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897046, "planName": "Gratuito", "status": "Active", "id": 3847555}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897110, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847592}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897115, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847587}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897269, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847649}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897287, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847666}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897353, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847676}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897443, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847735}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897542, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847750}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897575, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847767}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897576, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848413}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897765, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847858}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897831, "planName": "Gratuito", "status": "Active", "id": 3847908}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897933, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847921}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897958, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848323}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897959, "planName": "Gratuito Preferencial", "status": "Active", "id": 3847935}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8897977, "planName": "Gratuito", "status": "Active", "id": 3847933}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898000, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849697}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898032, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848391}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898210, "planName": "Gratuito", "status": "Active", "id": 3848012}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898243, "planName": "Gratuito", "status": "Active", "id": 3848028}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898251, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848047}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898256, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848067}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898365, "planName": "Gratuito", "status": "Active", "id": 3848324}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898438, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848122}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898590, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848251}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898680, "planName": "Gratuito", "status": "Active", "id": 3848313}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898681, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848299}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898742, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848612}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898870, "planName": "Gratuito", "status": "Active", "id": 3848373}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898914, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848368}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898942, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848388}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8898948, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848392}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899031, "planName": "Gratuito", "status": "Active", "id": 3848412}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899042, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848425}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899059, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848422}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899105, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848504}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899201, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848526}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899329, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848611}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899468, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848622}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899481, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848625}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8899671, "planName": "Gratuito Preferencial", "status": "Active", "id": 3848673}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8900074, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849050}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8900192, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849068}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8900203, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849070}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8900442, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849248}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8901787, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849540}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8901962, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849653}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8901966, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849627}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902186, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849677}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902187, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849668}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902260, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849726}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902279, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849741}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902280, "planName": "Gratuito", "status": "Active", "id": 3849737}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902286, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849765}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902314, "planName": "Gratuito", "status": "Active", "id": 3849760}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902357, "planName": "Gratuito", "status": "Active", "id": 3849793}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902373, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849777}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902402, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849795}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902460, "planName": "B\u00e1sico", "status": "Cancelled", "id": 3849804}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902480, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849811}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902485, "planName": "Gratuito", "status": "Active", "id": 3849809}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902501, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849818}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902501, "planName": "Gratuito Preferencial", "status": "Active", "id": 3849819}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902501, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3849820}}
+{"type": "RECORD", "stream": "subscriptions", "record": {"customerId": 8902501, "planName": "Gratuito Preferencial", "status": "Draft", "id": 3849821}}

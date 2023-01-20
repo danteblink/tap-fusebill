@@ -1,0 +1,156 @@
+{
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+		"customerId": {
+			"type": ["null", "integer"]
+		},
+		"planId": {
+			"type": ["null", "integer"]
+		},
+		"planCode": {
+			"type": ["null","string"]
+		},
+		"name": {
+			"type": ["null","string"]
+		},
+		"description": {
+			"type": ["null","string"]
+		},
+		"reference": {
+			"type": ["null", "integer"]
+		},
+		"interval": {
+			"type": ["null","string"]
+		},
+		"numberOfInterval": {
+			"type": ["null", "integer"]
+		},
+		"subscriptionStatus": {
+			"type": ["null","string"]
+		},
+		"monthlyRecurringRevenue": {
+			"type": ["null","number"]
+		},
+		"netMonthlyRecurringRevenue": {
+			"type": ["null","number"]
+		},
+		"lastBillingDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"nextBillingDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"expiryDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"scheduledActivationTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"cancellationTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"suspendedTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"createdTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"modifiedTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"activatedTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"provisionedTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"nextPeriodStartDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"contractStartTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"contractEndTimestamp": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"remainingInterval": {
+			"type": ["null", "integer"]
+		},
+		"migrationDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"scheduledMigrationDate": {
+			"type": [ "null", "string"
+			],
+			"format": "date-time"
+		},
+		"canMigrate": {
+			"type": ["null","string"]
+		},
+		"customerFirstName": {
+			"type": ["null","string"]
+		},
+		"customerLastName": {
+			"type": ["null","string"]
+		},
+		"customerReference": {
+			"type": ["null", "integer"]
+		},
+		"companyName": {
+			"type": ["null", "string"]
+		},
+		"customerParentId": {
+			"type": ["null", "integer"]
+		},
+		"currency": {
+			"type": ["null","string"]
+		},
+		"invoiceOwner": {
+			"type": ["null","string"]
+		},
+		"invoiceOwnerId": {
+			"type": ["null", "integer"]
+		},
+		"geotabDevicePlanId": {
+			"type": ["null", "integer"]
+		},
+		"geotabDevicePlanName": {
+			"type": ["null","string"]
+		},
+		"id": {
+			"type": ["null", "integer"]
+		},
+		"uri": {
+			"type": ["null","string"]
+		}
+	}
+}
