@@ -8,7 +8,7 @@ from singer.schema import Schema
 import requests 
 
 #Pass in a dictionary to the Headers parameter 
-headers = {'Authorization' : 'Basic MDo0REZ0cHBxSDZWanJZc2VCeGZxTDhGc3JpZE96NjVEN3NJRHNPb2dQN1JwUmdqUWFCTnJiaE81OXNPc3FLRklC', 'Content-Type' : 'application/json'} 
+headers = {'Authorization' : '', 'Content-Type' : 'application/json'} 
 
 
 REQUIRED_CONFIG_KEYS = ["start_date", "username", "password"]
